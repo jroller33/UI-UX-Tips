@@ -12,7 +12,7 @@
   - [Contact](#contact)
   
   ## Deployed Link
-
+  https://floating-escarpment-55488.herokuapp.com/
   
   ## Usage
 
