@@ -1,7 +1,7 @@
   # UI/UX Tips
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  This is an app that's deployed on Heroku. It doesn't have much of a frontend, but there's a lot going on server-side.
+  This is an app that's deployed on Heroku. It doesn't have much of a frontend, but there's a lot going on server-side. It allows you to r
 
   ## Table of Contents
   - [Deployed Link](#deployed-link)
