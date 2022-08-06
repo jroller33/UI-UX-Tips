@@ -13,12 +13,10 @@ if (feedbackForm) {
     .addEventListener('submit', (e) => {
       e.preventDefault();
 
-      // get the feedback text from the DOM and assign it to a variable
+      // get the feedback and username text from the DOM and assign it to variables
       let feedback = document.getElementById('feedbackText').value;
-      // Get the username text and add it to a variable
       let email = document.getElementById('feedbackUsername').value.trim();
 
-      // create an object with username and feedback
       const newFeedback = {
         feedback,
         email,
