@@ -15,6 +15,8 @@
   
   ## Deployed Link
   https://floating-escarpment-55488.herokuapp.com/
+  ### ⚠️Note about Heroku⚠️:
+  If you experience a 5-10 second lag after clicking the link to an app I've deployed on Heroku, it is because I'm currently using the free version. The server for an app on Heroku isn't listening at all times, because Heroku kills it after ~10 minutes if it doesn't receive a request. So when you click the link, the lag is from Heroku spinning-up the server so that it can receive your request and respond.<br/>
   
   ## Usage
   You can click into the text area and enter a tip, and then click "Add Tip." Your tip, along with everyone else's tips, are saved in '/db/tips.json'.
