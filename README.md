@@ -1,7 +1,7 @@
   # UI/UX Tips
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  This app is deployed on Heroku. It doesn't have much of a frontend, but there's a lot going on server-side (relatively). I used Express.js and node.js to write the backend and REST API. I also used javascript, CSS, and HTML.
+  This app is deployed on Heroku. It doesn't have much of a frontend, but there's a lot going on server-side (relatively). I used express.js, node.js, npm, javascript, CSS, and HTML to make this app.
   
   The app lets you see UI/UX tips that other people have written, and you can also save your own. This is my first app deployed on Heroku.
 
