@@ -28,7 +28,7 @@
   You can fork the repo at https://github.com/jroller33/UI-UX-Tips
   
   ## Tests
-  There's no tests, but I did use `Insomnia` (https://insomnia.rest/) to test the API.
+  There's no tests, but I did use [Insomnia](https://insomnia.rest/) to test the API.
 
   ## License
   This project is licensed under the MIT License. <br/>
